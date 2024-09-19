@@ -18,7 +18,7 @@ You can contribute in various ways:
 2. **Clone the Repository**
    - Clone your forked repository to your local machine using:
      ```bash
-     git clone https://github.com/yourusername/talkvoice.git
+     git clone https://github.com/excelstephen/talkvoice.git
      ```
 
 3. **Create a Branch**
