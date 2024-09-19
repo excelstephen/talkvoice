@@ -9,8 +9,6 @@
 - Downloadable audio files in MP3 format
 - Easily customizable and extendable for additional features
 
-## Demo
-![TalkVoice Screenshot](static/images/talkvoice-screenshot.png) *(Add a screenshot of your application here)*
 
 ## Getting Started
 ### Prerequisites
