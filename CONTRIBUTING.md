@@ -69,7 +69,7 @@ If you encounter any bugs or issues while using TalkVoice, please report them by
    - Environment details (operating system, browser, Python version, etc.)
 
 ## Code of Conduct
-Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. If you witness any unacceptable behavior, report it by contacting the project maintainers at [your-email@example.com](mailto:your-email@example.com).
+Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. If you witness any unacceptable behavior, report it by contacting the project maintainers at [excelstephen1@gmail.com](mailto:excelstephen1@gmail.com).
 
 ## Acknowledgements
 We appreciate all contributions! Your efforts make TalkVoice a better project and help the community. Thank you for taking the time to contribute!
