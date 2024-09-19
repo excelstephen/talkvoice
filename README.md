@@ -21,3 +21,23 @@
    ```bash
    git clone https://github.com/excelstephen/talkvoice.git
    cd talkvoice
+
+2. **Set Up a Virtual Environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run Migrations**
+   ```bash
+   python manage.py migrate
+
+5. **Run the Application**
+   ```bash
+   python manage.py runserver
+
+6. **Open your web browser and navigate to http://127.0.0.1:8000/ to use the application.**
+   
