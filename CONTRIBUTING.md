@@ -76,8 +76,8 @@ We appreciate all contributions! Your efforts make TalkVoice a better project an
 
 ## Contact
 For further questions or issues, feel free to reach out:
-- Email: [your-email@example.com](mailto:excelstephen1@gmail.com)
-- GitHub: [@yourusername](https://github.com/excelstephen)
+- Email: [excelstephen1@gmail.com(mailto:excelstephen1@gmail.com)
+- GitHub: [@excelstephen](https://github.com/excelstephen)
 
 ---
 
